@@ -2,7 +2,7 @@
 
 A running list of links for AutoML - very unofficial and incomplete.
 
-## References
+### References
 
 * [https://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/DSAA_DSM_2015.pdf](Deep Feature Synthesis: Towards Automating Data Science Endeavors)</br>
 CSAIL, MIT
@@ -16,7 +16,7 @@ Google
 * [http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html](AutoML: Automatic Machine Learning)</br>
 H2O.ai
 
-## Software
+### Software
 
 #### Data Exploration
 
